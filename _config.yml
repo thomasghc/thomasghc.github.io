@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "thomasghc's website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hangcheng Guo"
   avatar           : "profile.png"
-  bio              : "A programmer in data analysis and NLP."
+  bio              : "A researcher in data analysis and NLP."
   location         : "Beijing"
   employer         :
   pubmed           :
