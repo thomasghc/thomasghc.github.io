@@ -22,8 +22,8 @@ Journal Publications
 
 Conference Publications
 ======
-1. Hangcheng Guo, Wenbin Liu, Yanqing He, et al. ISTIC’s Triangular Machine Translation System for WMT2021. Proceedings of the Sixth Conference on Machine Translation, pages 320–324, Online. Association for Computational Linguistics, 2021. [Paper Link](https://aclanthology.org/2021.wmt-1.36/)
-2. Hangcheng Guo, Wenbin Liu, Yanqing He, et al. ISTIC’s Neural Machine Translation System for CCMT’ 2021. Machine Translation. CCMT 2021. Communications in Computer and Information Science, vol 1464. Springer, Singapore, 2021. [Paper Link](https://doi.org/10.1007/978-981-16-7512-6_9/)
-3. Shuao Guo, Hangcheng Guo, Yanqing He, et al. ISTIC’s Thai-to-Chinese Neural Machine Translation System for CCMT’ 2022. Machine Translation. CCMT 2022. Communications in Computer and Information Science, vol 1671. Springer, Singapore, 2022. [Paper Link](https://doi.org/10.1007/978-981-19-7960-6_16/)
+1. Hangcheng Guo, Wenbin Liu, Yanqing He, et al. ISTIC’s Triangular Machine Translation System for WMT'2021. Proceedings of the Sixth Conference on Machine Translation, pages 320–324, Online. Association for Computational Linguistics, 2021. [Paper Link](https://aclanthology.org/2021.wmt-1.36/)
+2. Hangcheng Guo, Wenbin Liu, Yanqing He, et al. ISTIC’s Neural Machine Translation System for CCMT'2021. Machine Translation. CCMT 2021. Communications in Computer and Information Science, vol 1464. Springer, Singapore, 2021. [Paper Link](https://doi.org/10.1007/978-981-16-7512-6_9/)
+3. Shuao Guo, Hangcheng Guo, Yanqing He, et al. ISTIC’s Thai-to-Chinese Neural Machine Translation System for CCMT'2022. Machine Translation. CCMT's 2022. Communications in Computer and Information Science, vol 1671. Springer, Singapore, 2022. [Paper Link](https://doi.org/10.1007/978-981-19-7960-6_16/)
 
 
