@@ -13,7 +13,9 @@ This is my personal profile [GitHub Link](https://thomasghc.github.io/). My rese
 Main Experiences
 ======
 2020-2023  study for a master's degree in information science in ISTIC [ISTIC Homepage](https://www.istic.ac.cn/).
+
 2018-2020  study for a bachelor's degree in software engineering in PKU [PKU Homepage](https://www.pku.edu.cn/).
+
 2012-2016  study for a bachelor's degree in automation in BJTU [BJTU Homepage](https://bjtu.edu.cn/).
 
 Journal Publications
