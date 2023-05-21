@@ -12,7 +12,7 @@ This is my personal profile [GitHub Link](https://thomasghc.github.io/). My rese
 
 Main Experiences
 ======
-  - obtains a master's degree in information science in ISTIC [ISTIC Homepage](https://www.istic.ac.cn/) in 2023.
+  - obtains a master's degree in information science in ISTIC in 2023. [ISTIC Homepage](https://www.istic.ac.cn/)
 
 Journal Publications
 ======
