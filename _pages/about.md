@@ -11,13 +11,13 @@ This is my personal profile [GitHub Link](https://thomasghc.github.io/). My rese
 
 Main Experiences
 ======
-  - works for Peking University Library from July, 2023. [PKUL Link](https://www.lib.pku.edu.cn/)
+  - work for Peking University Library since July, 2023. [PKUL Link](https://www.lib.pku.edu.cn/)
   
-  - obtains a master's degree in information science in the Institute of Scientific and Technical Information of China in Jan, 2023. [ISTIC Link](https://www.istic.ac.cn/)
+  - obtain a master's degree in information science in the Institute of Scientific and Technical Information of China in Jan, 2023. [ISTIC Link](https://www.istic.ac.cn/)
 
-  - obtains a bachelor's degree in software engineering in Peking University in July, 2020. [PKU Link](https://www.pku.edu.cn/)
+  - obtain a bachelor's degree in software engineering in Peking University in July, 2020. [PKU Link](https://www.pku.edu.cn/)
 
-  - obtains a bachelor's degree in automation in Beijing Jiaotong University in June, 2016. [BJTU Link](https://www.bjtu.edu.cn/)
+  - obtain a bachelor's degree in automation in Beijing Jiaotong University in June, 2016. [BJTU Link](https://www.bjtu.edu.cn/)
 
 Journal Publications
 ======
