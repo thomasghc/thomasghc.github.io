@@ -1,6 +1,6 @@
+---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,13 @@ This is my personal profile [GitHub Link](https://thomasghc.github.io/). My rese
 
 Main Experiences
 ======
-  - works in Peking University Library from July, 2023. [PKUL Homepage](https://www.lib.pku.edu.cn/)
+  - works for Peking University Library from July, 2023. [PKUL Link](https://www.lib.pku.edu.cn/)
   
-  - obtains a master's degree in information science in ISTIC in Jan, 2023. [ISTIC Homepage](https://www.istic.ac.cn/)
+  - obtains a master's degree in information science in the Institute of Scientific and Technical Information of China in Jan, 2023. [ISTIC Link](https://www.istic.ac.cn/)
+
+  - obtains a bachelor's degree in software engineering in Peking University in July, 2020. [PKU Link](https://www.pku.edu.cn/)
+
+  - obtains a bachelor's degree in automation in Beijing Jiaotong University in June, 2016. [BJTU Link](https://www.bjtu.edu.cn/)
 
 Journal Publications
 ======
