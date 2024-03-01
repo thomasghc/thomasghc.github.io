@@ -1,4 +1,4 @@
----
+![image](https://github.com/thomasghc/thomasghc.github.io/assets/35837017/4a37b093-8ceb-4f0b-9c7f-549d5147abdf)---
 permalink: /
 title: "About Me"
 excerpt: "About Me"
@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal profile [GitHub Link](https://thomasghc.github.io/). My research interest includes natural language processing, machine learning, and information science.
+This is my personal profile [GitHub Link](https://thomasghc.github.io/). My research interest includes natural language processing and information science.
 
 Main Experiences
 ======
-  - obtains a master's degree in information science in ISTIC in 2023. [ISTIC Homepage](https://www.istic.ac.cn/)
+  - works in Peking University Library from July, 2023. [PKUL Homepage](https://www.lib.pku.edu.cn/)
+  
+  - obtains a master's degree in information science in ISTIC in Jan, 2023. [ISTIC Homepage](https://www.istic.ac.cn/)
 
 Journal Publications
 ======
-[1] 郭航程,何彦青,兰天,吴振峰,董诚. 基于Paragraph-BERT-CRF的科技论文摘要语步功能信息识别方法研究[J]. 数据分析与知识发现,2022,6(Z1):298-307.
+[1] 郭航程,何彦青,兰天,吴振峰,董诚. 基于Paragraph-BERT-CRF的科技论文摘要语步功能信息识别方法研究[J]. 数据分析与知识发现,2022,6(Z1):298-307.[Paper Link](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2021.0973)
 
-[2] 何彦青,陈光云,兰天,李岩,郭航程. 基于Rule-Faster-RCNN的多语科技论文PDF文档结构框架元素解析[J]. 情报科学,2023,41(04):51-61.
+[2] 何彦青,陈光云,兰天,李岩,郭航程. 基于Rule-Faster-RCNN的多语科技论文PDF文档结构框架元素解析[J]. 情报科学,2023,41(04):51-61.[Paper Link](http://journal12.magtechjournal.com/jwk3_qbkx/CN/Y2023/V41/I4/51)
 
 Conference Publications
 ======
