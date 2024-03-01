@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a librarian keen on artificial intelligence technology,photography, food and sports.
+I am a librarian keen on artificial intelligence technology, photography, food and sports.
 
 Main Experiences
 ======
