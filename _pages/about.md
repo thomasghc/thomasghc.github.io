@@ -1,4 +1,3 @@
-![image](https://github.com/thomasghc/thomasghc.github.io/assets/35837017/4a37b093-8ceb-4f0b-9c7f-549d5147abdf)---
 permalink: /
 title: "About Me"
 excerpt: "About Me"
